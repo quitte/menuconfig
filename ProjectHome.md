@@ -1,0 +1,1 @@
+menuconfig is a small tool to configure your project like kernel config.
